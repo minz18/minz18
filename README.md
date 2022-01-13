@@ -12,10 +12,7 @@ You may know me as `MinZ`, web developer from 🇮🇩.
 
 ### Support me on:
 
-- 👉 🇮🇩 [Trakteer](https://trakteer.id/y/tip?utm_source=github)
-- 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/y?utm_source=github)
-- 👉 🌍 [Paypal](https://www.paypal.me/y?utm_source=github)
-- 👉 🌍 [Ko-Fi](https://ko-fi.com/y)
+- 👉 🇮🇩 [Saweria](https://saweria.co/minz18?utm_source=github)
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=minz18&show_icons=true&theme=nightowl&locale=en" alt="Hendrik" /></p>
 
