@@ -17,6 +17,6 @@ You may know me as `MinZ`, web developer from 🇮🇩.
 - 👉 🌍 [Paypal](https://www.paypal.me/y?utm_source=github)
 - 👉 🌍 [Ko-Fi](https://ko-fi.com/y)
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=mazipan&show_icons=true&theme=nightowl&locale=en" alt="mazipan" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=minz18&show_icons=true&theme=nightowl&locale=en" alt="minz" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazipan&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mazipan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minz18&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="minz" /></p>
