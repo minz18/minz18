@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Hendrik Ardiansah
 
-You may know me as `MinZ`, web developer from 🇮🇩.
 
 ### Connect with me:
 
